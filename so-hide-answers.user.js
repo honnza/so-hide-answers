@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name          Hide Stack Exchange answers
 // @description   add a checkbox to every answer collapsing that answer, and to the entre block, hiding the block.
-// @match         http://stackoverflow.com
-// @match         http://serverfault.com
-// @match         http://meta.stackoverflow.com
-// @match         http://askubuntu.com
-// @match         http://stackapps.com
-// @match         http://answers.onstartups.com
-// @match         http://mathoverflow.com
-// @match         http://superuser.com
+// @match         http://stackoverflow.com/*
+// @match         http://serverfault.com/*
+// @match         http://meta.stackoverflow.com/*
+// @match         http://askubuntu.com/*
+// @match         http://stackapps.com/*
+// @match         http://answers.onstartups.com/*
+// @match         http://mathoverflow.com/*
+// @match         http://superuser.com/*
 // @version       1.0
 // ==/UserScript==
 
